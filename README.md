@@ -7,7 +7,7 @@ This project is a **web-based greeting card generator** that allows users to cre
 ✅ **Custom Image Upload** – Users can add their own images for personalization.  
 ✅ **Dynamic Text & Descriptions** – Titles and messages can be fully customized.  
 ✅ **Audio Integration** – Background music can be added for a rich experience.  
-✅ **Download & Share** – Cards can be downloaded or shared digitally.  
+✅ **Download & Share** – Cards can be downloaded or shared digitally(Future).  
 ✅ **User-Friendly Interface** – Simple and elegant design for a seamless experience.  
 
 ## 🛠️ Technologies Used  
@@ -18,4 +18,4 @@ This project is a **web-based greeting card generator** that allows users to cre
 ## 📌 How to Run the Project  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/rv-unq/MINI_PROJECT.git
