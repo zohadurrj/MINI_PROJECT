@@ -1,4 +1,4 @@
-# 🎉 Web-Based Personalized Greeting Card Generator 🎨🎵  
+# 🎉 Web-Based Personalized Template Maker (Greeting Card Generator )🎨🎵  
 
 ## Introduction  
 This project is a **web-based greeting card generator** that allows users to create **custom digital cards** for birthdays, anniversaries, and special occasions. Users can upload **images, write descriptions, and even add background music** to create a more engaging and heartfelt greeting card.
