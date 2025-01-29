@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1 id="demo">Hello Script</h1>
+  <button onclick="eventhandler()" ondblclick="eventhandler2()"></button>
+  <script>
+    let element=document.getElementById("demo");
+    function eventhandler(){
+      element.style.color="red";
+    }
+    function eventhandler2(){
+      element.innerHTML="Hii Vishnu"
+    }
+  </script>
+</body>
+</html>

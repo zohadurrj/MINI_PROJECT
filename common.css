@@ -1,0 +1,24 @@
+.navbar {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: wheat;
+}
+
+.navbar-brand:hover {
+  color: #0056b3;
+}
+
+.nav-link {
+  color: wheat;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.nav-link:hover {
+  color: #8aa3bf;
+}
