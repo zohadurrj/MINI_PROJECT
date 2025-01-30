@@ -18,4 +18,4 @@ This project is a **web-based greeting card generator** that allows users to cre
 ## 📌 How to Run the Project  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/rv-unq/MINI_PROJECT.git
+   git clone https://github.com/zohadurrj/MINI_PROJECT.git
